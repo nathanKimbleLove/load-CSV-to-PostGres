@@ -1,6 +1,4 @@
-const events = require('events');
 const fs = require('fs');
-const readline = require('readline');
 const path = require('path');
 const csvDir = path.join(__dirname, './SDC-data');
 
